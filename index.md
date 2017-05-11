@@ -1,4 +1,4 @@
-![banner](https://plus.google.com/photos/photo/105440129897732876491/6418659689879654018?icm=false&authkey=CJyr-LHVtNinuAE)
+![banner](https://plus.google.com/105440129897732876491/posts/QYQAQhCGKDa)
 ## Welcome to 17-56
 
 This is the GitHub page of [17-56](https://17-56.cl), where we will be posting out methodology, codes and more technical stuff!
