@@ -1,4 +1,4 @@
-![banner](17-56cl.github.io/media/header.PNG)
+![banner](https://github.com/17-56cl/17-56cl.github.io/blob/master/media/header.PNG)
 ## Welcome to 17-56
 
 This is the GitHub page of [17-56](https://17-56.cl), where we will be posting out methodology, codes and more technical stuff!
